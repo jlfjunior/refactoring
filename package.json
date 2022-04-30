@@ -1,0 +1,25 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main.js",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlfjunior/refactoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlfjunior/refactoring/issues"
+  },
+  "homepage": "https://github.com/jlfjunior/refactoring#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
